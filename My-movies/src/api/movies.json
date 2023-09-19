@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "name": "The Matrix Reloaded",
+      "rating": "6.9",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBegA6V243J6HUnpcOILsRvBnGb.jpg",
+      "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance. Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition.",
+      "id": 8
+    },
+    {
+      "name": "Saw 3D",
+      "rating": "7.5",
+      "overview": "SAW legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg",
+      "id": 11
+    },
+    {
+      "name": "Blitz 007",
+      "rating": "11",
+      "overview": "A tough, renegade cop with a gay sidekick is dispatched to take down a serial killer who has been targeting police officers. AÇIKLAMA AÇIKLAMA",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCPMjT8Ld8tvs1zs7LY2jpKlRIK.jpg",
+      "id": 12
+    },
+    {
+      "name": "Hostage",
+      "rating": "6.3",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hne3v6jN4MlCnhSkxOW7YspJhr.jpg",
+      "overview": "When a mafia accountant is taken hostage on his beat, a police officer – wracked by guilt from a prior stint as a negotiator – must negotiate the standoff, even as his own family is held captive by the mob.",
+      "id": 13
+    },
+    {
+      "name": "Yüzüklerin Efendisi: İki Kule",
+      "rating": "10",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNsy5lnvDbfDi3rU0Cd731p2aoA.jpg",
+      "overview": "Yüzük Kardeşliği üyelerinin her birinin, kardeşlik bozulduktan sonra başlarına gelenler anlatılıyor. Kahramanlarımız, gruplar halinde Orta Dünya'nın en tehlikeli yerlerinde maceralar yaşayacaklar, yeni kavimler ve çoktan unutulmuş medeniyetlerle tanışacaklar.",
+      "id": 22
+    },
+    {
+      "name": "Kuzey Güney",
+      "rating": "9.2",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eG35U9iYp6cWigQxIpzwlPEPY0l.jpg",
+      "overview": "Başrollerini Kıvanç Tatlıtuğ, Buğra Gülsoy ve Öykü Karayel'in paylaştığı Kuzey Güney, yeni sezonun en iddialı yapımlarından biri. Birbirine zıt iki karakteri oynayacak olan Tatlıtuğ ve Gülsoy, Kuzey Güney için bir araya geldi. Kuzey ve Güney çocukluklarından beri, birbirlerinde çok zıt karakterlere sahip iki kardeş. Kuzey'in serseri ve umursamaz tavırları, sorumluluk sahibi Güney'i hep sinir etmiştir. Aynı kızı seven Kuzey ve Güney'in birbirlerinden habersiz büyüttükleri sevgileri, Kuzey'in aşkını itiraf edeceği an öğrendiği acı gerçekle tokat gibi yüzüne çarpar.\n\nO günün uğursuzluğu bununla bitmeyecektir. Gecenin sonunda yaşanan acı olay, herkesin hayatını sonsuza kadar değiştirir.",
+      "id": 23
+    }
+  ]
+}
